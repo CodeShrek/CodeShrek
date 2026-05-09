@@ -22,7 +22,7 @@ Research Intern @ Universidad de Chile · GSoC 2026 · GATE 2026
 **UC Chile — Research Intern (Jan–Aug 2026)**  
 Building physics-informed neural surrogates for cancer cell migration modeling using coupled SDE-PDE frameworks. Implementing uncertainty quantification pipelines under stochastic biological constraints.
 
-**Adversarially Robust Federated Learning for UAV Networks **  
+**Adversarially Robust Federated Learning for UAV Networks**  
 Developing a Byzantine-robust federated learning framework for UAV ad hoc networks, extending FLTrust with an adaptive trust threshold mechanism — replacing the static threshold used in prior state-of-the-art (FLTrust, CRFL) to improve robustness under dynamic adversarial conditions including jamming, blackhole, and Sybil attack vectors.
 
 ---
